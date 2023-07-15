@@ -1,7 +1,8 @@
 
 # AARTI RATHI
-# My website - https://aartirathi17.herokuapp.com/
-#snakes and ladders
+# My website - https://shinchancode.github.io/3d-react-portfolio/
+
+#snakes and ladders using Python
 #-----------------------------------------------------------------------------------------------------------------
 import random
 
